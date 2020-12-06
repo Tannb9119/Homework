@@ -1,8 +1,8 @@
 # Homework
 ## Bài 1 OUTPUT: ## 
-Tao cac da thuc p,q,r,s
-Ham bac: 3
-Nhap he so cho: 
+Tao cac da thuc p,q,r,s__
+Ham bac: 3__
+Nhap he so cho: __
 a[0] = 4
 a[1] = 6
 a[2] = 7
