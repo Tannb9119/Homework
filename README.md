@@ -1,4 +1,5 @@
-# Homework PHẠM QUANG SÁNG - 20193076
+# Homework
+PHẠM QUANG SÁNG - 20193076
 ## Bài 1 OUTPUT: ## 
 Tao cac da thuc p,q,r,s<br/>
 Ham bac: 3<br/>
